@@ -7,4 +7,10 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'practica-maquetado';
+  nombre:string = 'Cualquier cosa'
+
+  activo:boolean = true  
+  activar(){
+    this.activo = !this.activo
+  }
 }

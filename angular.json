@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "practica-maquetado"
+    }
+  },
+  "defaultProject": "practica-maquetado",
+  "cli": {
+    "analytics": "0dcd798f-1647-42a9-a67d-cc02dc18bee3"
+  }
 }
